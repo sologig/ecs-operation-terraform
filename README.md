@@ -1,2 +1,1 @@
-# ecs-operation-terraform
-terraform templates for ecs deployment
+# terraform_ecs_fargate_example
